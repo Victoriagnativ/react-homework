@@ -1,3 +1,5 @@
+# Homework1
+done homework where use components and props
 # Project location
 https://github.com/Victoriagnativ/react-homework.git
 
